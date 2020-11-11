@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoAn</string>
+    <string name="m_gh">Mã ghế:</string>
+    <string name="s_l_ng">Số lượng:</string>
+    <string name="t_ng_ti_n">Tổng tiền:</string>
+    <string name="thanh_to_n">Thanh toán</string>
+    <string name="todo">TODO</string>
+    <string name="ten_phim">Tên phim:</string>
+    <string name="ti_c_tr_ng_m_u">TIỆC TRĂNG MÁU</string>
+    <string name="a01">A01</string>
+    <string name="_1">1</string>
+    <string name="_100_000_vn">100.000 VNĐ</string>
+</resources>

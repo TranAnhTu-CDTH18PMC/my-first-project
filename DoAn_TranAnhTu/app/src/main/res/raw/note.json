@@ -1,0 +1,12 @@
+{
+  "ds": [
+    {"tenphim": "TIEC TRANG MAU",
+      "maghe": "A01",
+      "soluong": "1",
+    "tongtien":"100.000 VND"},
+    {"tenphim": "ROM",
+      "maghe": "B01",
+      "soluong": "1",
+      "tongtien":"50.000 VND"}
+  ]
+}
